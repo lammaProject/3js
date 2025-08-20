@@ -40,7 +40,6 @@ export const CARDS = [
     {name: 'Six of Swords', src: '/assets/six_swords.jpg', description: 'Transition, moving forward, letting go.'},
     {name: 'Seven of Swords', src: '/assets/seven_swords.jpg', description: 'Deception, strategy, stealth.'},
     {
-        
         name: 'Eight of Swords',
         src: '/assets/eight_swords.jpg',
         description: 'Restriction, helplessness, imposed limitations.'
