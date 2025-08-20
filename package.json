@@ -1,9 +1,9 @@
 {
+  "homepage": "https://lammaproject.github.io/3js",
   "name": "3js-cards",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://lammaproject.github.io/3js/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
