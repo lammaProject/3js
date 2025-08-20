@@ -51,7 +51,6 @@ function App() {
     const handleCloseAnswer = () => {
         setIsModalClose(false);
         setSelected(null)
-        
         setInProcess(false)
         setIsModal(false)
     }
